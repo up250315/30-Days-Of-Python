@@ -1,6 +1,6 @@
 #Exercises Level 1
 first_name = 'mariano '
-last_name = 'jimenez escalera'
+last_name = 'Jimenez Escalera'
 full_name = 'Mariano Jimenez Escalera'
 country = 'Mexico'
 city = 'Aguascalientes'
